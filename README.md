@@ -43,14 +43,21 @@ We are grateful to the authors of BERT and ELMo to make the pre-training codes a
 
 If you use models available in this repository, we would be grateful if you would cite the paper as follows:
 
-* Si, Yuqi, Jingqi Wang, Hua Xu, and Kirk Roberts. "Enhancing Clinical Concept Extraction with Contextual Embedding." arXiv preprint arXiv:1902.08691 (2019).
+* Si, Yuqi, Jingqi Wang, Hua Xu, and Kirk Roberts. 2019. “Enhancing Clinical Concept Extraction with Contextual Embeddings.” Journal of the American Medical Informatics Association, July, ocz096. https://doi.org/10.1093/jamia/ocz096.
 
 ```
-@article{si2019enhancing,
-  title={Enhancing Clinical Concept Extraction with Contextual Embedding},
-  author={Si, Yuqi and Wang, Jingqi and Xu, Hua and Roberts, Kirk},
-  journal={arXiv preprint arXiv:1902.08691},
-  year={2019}
+@article{si_enhancing_2019,
+	title = {Enhancing clinical concept extraction with contextual embeddings},
+	issn = {1527-974X},
+	url = {https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocz096/5527248},
+	doi = {10.1093/jamia/ocz096},
+	language = {en},
+	urldate = {2019-07-09},
+	journal = {Journal of the American Medical Informatics Association},
+	author = {Si, Yuqi and Wang, Jingqi and Xu, Hua and Roberts, Kirk},
+	month = jul,
+	year = {2019},
+	pages = {ocz096}
 }
 ```
 
