@@ -36,7 +36,7 @@ As of <u>July 8, 2019</u>, the following models have been made available:
 
 ## Acknowledgments
 
-We are grateful to the authors of BERT and ELMo to make the pre-training codes and instructions publicly available. We are also thankful to the MIMIC-III team for providing valuable resources about clinical text. Please follow the [`intructions`](https://mimic.physionet.org/gettingstarted/access/) to get the access of MIMIC-III data before downloading the above pre-trained models. 
+We are grateful to the authors of BERT and ELMo to make the pre-training codes and instructions publicly available. We are also thankful to the MIMIC-III team for providing valuable resources about clinical text. Please follow the [`instructions`](https://mimic.physionet.org/gettingstarted/access/) to get the access of MIMIC-III data before downloading the above pre-trained models. 
 
 
 ## Citation
